@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @infinity-23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">- 👋 Hi, We are @infinity-23</h1>
+<h1 align="center">- 👀 I’m interested in ...</h1>
+<h1 align="center">- 🌱 I’m currently learning ...</h1>
+<h1 align="center">- 💞️ I’m looking to collaborate on ...</h1>
+<h1 align="center">- 📫 How to reach me ...</h1>
 
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]([https://web.facebook.com/ravinduchandeepa.abaysekara/])
 <h1 align="center">Hi 👋,We are Infinity 23</h1>
 <h3 align="center">A passionate FullStack Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
